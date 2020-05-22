@@ -166,7 +166,7 @@ const RESOURCES = {
 "assets/LICENSE": "80f064f18c98330f3f2b4295473acb9a",
 "assets/AssetManifest.json": "48b065da2c62921e1ddc973b2cece4fa",
 "assets/FontManifest.json": "db50da1317e378db916faf8455923b07",
-"main.dart.js": "040192a273de99ad3187920d037d4048",
+"main.dart.js": "054843c83428c5d1e69aae28684be59c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
